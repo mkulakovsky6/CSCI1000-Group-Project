@@ -1,2 +1,7 @@
 # CSCI1000-Group-Project
-# <h1>Awesome</h1>
+# <h2>top 3 rocks</h2>
+# <ol>
+#   <li>Dwayne</li>
+#   <li>El Capitan</li>
+#   <li>https://www.homedepot.com/p/Southwest-Boulder-Stone-25-cu-ft-3-in-to-8-in-Large-Arizona-River-Rock-Bulk-Landscape-Rock-for-Gardening-Landscaping-and-Walkways-YDE002-0426/333264200</li>
+# </ol>
